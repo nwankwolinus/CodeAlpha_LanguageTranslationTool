@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter & IPython
+.ipynb_checkpoints
+*.ipynb
+
+# macOS system files
+.DS_Store
+
+# Streamlit's cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Logs or temporary files
+*.log
+*.tmp
+
+# Audio outputs (optional)
+*.mp3
+*.wav
